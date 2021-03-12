@@ -1,2 +1,8 @@
 # hello-world
-Just another repo
+
+
+Hello, 
+
+NK here, I like to code and explore technologies. Playing with github. 
+
+
